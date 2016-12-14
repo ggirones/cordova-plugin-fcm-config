@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "262646935328",
+    "firebase_url": "https://appcac-151613.firebaseio.com",
+    "project_id": "appcac-151613",
+    "storage_bucket": "appcac-151613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262646935328:android:640745b4a02aeaee",
+        "android_client_info": {
+          "package_name": "es.cac.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262646935328-itku5rc0v3kk5mhlnvn19pvd2p1ro9f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGssQtDIy_8WpW7a6GaHdVEO_QkldNg9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
